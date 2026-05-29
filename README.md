@@ -23,7 +23,7 @@ Key highlights include:
 ## Implemented Examples
 
 - Poisson equation
-- Burgers' equation
+- Burger's equation
 
 More PDE examples will be added gradually.
 
@@ -32,6 +32,23 @@ More PDE examples will be added gradually.
 ```text
 PINNs-Keras-PDE-Solver/
 │
-├── burgers_equation/
+├── burger's_equation/
 ├── poisson_equation/
 └── README.md
+
+## Citation
+
+If you use this repository for academic, teaching, or research purposes, please cite it as:
+
+```bibtex
+@software{afzal_2026_pinns_keras_pde_solver,
+  author = {Afzal, Arshad},
+  title = {PINNs-Keras-PDE-Solver: Simple Keras-Based Physics-Informed Neural Network Codes for Solving PDEs},
+  year = {2026},
+  url = {https://github.com/arshadafzal/PINNs-Keras-PDE-Solver}
+}
+```
+
+## Author
+
+Arshad Afzal
