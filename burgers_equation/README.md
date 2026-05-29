@@ -14,7 +14,7 @@ where:
 - $u(x,t)$ is the velocity field
 - $x$ is the spatial coordinate
 - $t$ is time
-- $nu$ is the kinematic viscosity
+- $\nu$ is the kinematic viscosity
 
 The computational domain is defined as:
 
