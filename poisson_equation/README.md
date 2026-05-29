@@ -1,6 +1,6 @@
 # Poisson Equation using PINNs
 
-This folder contains a simple Keras-based Physics-Informed Neural Network implementation for solving the two-dimensional Poisson equation on a square domain.
+Solving the two-dimensional Poisson equation on a square domain.
 
 ## Governing Equation
 
@@ -12,18 +12,6 @@ $$
 \frac{\partial^2 u}{\partial y^2}
 =
 -\sin(\pi x)\sin(\pi y)
-$$
-
-or equivalently,
-
-$$
-\frac{\partial^2 u}{\partial x^2}
-+
-\frac{\partial^2 u}{\partial y^2}
-+
-\sin(\pi x)\sin(\pi y)
-=
-0
 $$
 
 where:
