@@ -2,4 +2,4 @@
 
 The following figure shows the PINN solution for the Burgers' equation:
 
-![Burgers Equation PINN Result](Figure_4.png)
+![Burger's Equation PINN Result](Figure_4.png)
