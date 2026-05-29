@@ -10,6 +10,7 @@ Key highlights include:
 - Uses automatic differentiation for computing PDE residuals
 - Includes boundary and initial condition handling
 - Uses the L-BFGS-B optimizer from SciPy for training
+- Demonstrates a practical Keras–SciPy optimization workflow by flattening trainable neural network weights into a single vector, optimizing them using SciPy's L-BFGS-B optimizer, and restoring the optimized vector back into the Keras model
 - External training, validation, or reference data can be imported from files using Pandas or xlrd
 - Suitable for academic learning, classroom teaching, and research purposes
 - Easy to modify for new PDEs, domains, and boundary conditions
