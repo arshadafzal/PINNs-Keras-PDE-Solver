@@ -16,6 +16,12 @@ where:
 - $t$ is time
 - $\nu$ is the kinematic viscosity
 
+In this problem, the kinematic viscosity is taken as:
+
+$$
+\nu = \frac{0.01}{\pi}
+$$
+
 The computational domain is defined as:
 
 $$
