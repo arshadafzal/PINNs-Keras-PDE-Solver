@@ -1,3 +1,5 @@
-# Results
+## Results
 
-This folder contains result figures for the Burgers' equation PINN simulation.
+The following figure shows the PINN solution for the Burgers' equation:
+
+![Burgers Equation PINN Result](results/Figure_4.png)
