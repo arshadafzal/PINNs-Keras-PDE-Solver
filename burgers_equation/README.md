@@ -1,6 +1,6 @@
-## Burgers' Equation
+## Burger's Equation
 
-In this example, the one-dimensional viscous Burgers' equation is solved using a Physics-Informed Neural Network.
+In this example, the one-dimensional viscous Burger's equation is solved using a Physics-Informed Neural Network.
 
 The governing equation is:
 
