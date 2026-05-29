@@ -7,11 +7,8 @@ Solving the two-dimensional Poisson equation on a square domain.
 The governing equation is:
 
 $$
-\frac{\partial^2 u}{\partial x^2}
-+
-\frac{\partial^2 u}{\partial y^2}
-=
--\sin(\pi x)\sin(\pi y)
+\frac{\partial^2 u}{\partial x^2} + \frac{\partial^2 u}{\partial y^2}
+= -\sin(\pi x)\sin(\pi y)
 $$
 
 where:
