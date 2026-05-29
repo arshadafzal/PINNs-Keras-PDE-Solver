@@ -35,6 +35,7 @@ PINNs-Keras-PDE-Solver/
 ├── burger's_equation/
 ├── poisson_equation/
 └── README.md
+```
 
 ## Citation
 
