@@ -1,6 +1,10 @@
-## Highlights
+# PINNs-Keras-PDE-Solver
 
-This repository provides simple and educational Keras-based Physics-Informed Neural Network implementations for solving different partial differential equations. The codes are written in a clear and readable style so that students, researchers, and beginners in scientific machine learning can easily understand, modify, and extend them for their own PDE problems.
+This repository provides simple and educational Keras-based Physics-Informed Neural Network implementations for solving different partial differential equations.
+
+The codes are written in a clear and readable style so that students, researchers, and beginners in scientific machine learning can understand, modify, and extend them for academic and research purposes.
+
+## Highlights
 
 Key highlights include:
 
@@ -16,11 +20,18 @@ Key highlights include:
 - Easy to modify for new PDEs, domains, and boundary conditions
 - Useful starting point for scientific machine learning and computational physics applications
 
-## Optimizer
+## Implemented Examples
 
-This code uses the **L-BFGS-B optimizer from SciPy** for training the Physics-Informed Neural Network.
+- Poisson equation
+- Burgers' equation
 
-The optimizer is implemented using:
+More PDE examples will be added gradually.
 
-```python
-scipy.optimize.minimize(method="L-BFGS-B")
+## Repository Structure
+
+```text
+PINNs-Keras-PDE-Solver/
+│
+├── burgers_equation/
+├── poisson_equation/
+└── README.md
