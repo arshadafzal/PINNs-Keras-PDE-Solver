@@ -36,7 +36,22 @@ PINNs-Keras-PDE-Solver/
 ├── poisson_equation/
 └── README.md
 ```
+## Requirements
 
+The code was developed for running PINN simulations on a native Windows machine with GPU support.
+
+Recommended setup:
+
+- Python 3.10
+- TensorFlow 2.10
+- keras 2.10
+- CUDA Toolkit 11.8
+- cuDNN 8.6
+- NumPy
+- SciPy
+- Matplotlib
+- Pandas
+- 
 ## Citation
 
 If you use this repository for academic, teaching, or research purposes, please cite it as:
