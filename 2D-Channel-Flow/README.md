@@ -7,7 +7,7 @@ The computational domain is a rectangular channel with the following dimensions 
 - Channel length: **L = 5**
 - Channel height: **H = 1**
 - Inlet velocity: **U_in = 1**
-- Kinematic viscosity: \nu = 0.01
+- Kinematic viscosity: \nu = 0.01\
 
 The physical domain is defined as:
 
