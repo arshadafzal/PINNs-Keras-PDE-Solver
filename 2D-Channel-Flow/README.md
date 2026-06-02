@@ -4,10 +4,10 @@ This repository solves a two-dimensional channel flow problem using a Physics-In
 
 The computational domain is a rectangular channel with the following dimensions and flow parameters:
 
-- Channel length: **L = 5**
-- Channel height: **H = 1**
-- Inlet velocity: **U_in = 1**
-- Kinematic viscosity: \nu = 0.01\
+- Channel length: $L = 5$
+- Channel height: $H = 1$
+- Inlet velocity: $U_{in} = 1$
+- Kinematic viscosity: $\nu = 0.01$
 
 The physical domain is defined as:
 
