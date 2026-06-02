@@ -62,4 +62,4 @@ The objective is to predict the velocity and pressure fields inside the channel 
 ## Results
 The predicted flow field and related results are shown below:
 
-![PINN Results](Figure_!.png)
+![PINN Results](Figure_1.png)
