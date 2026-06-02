@@ -58,3 +58,8 @@ p = 0
 $$
 
 The objective is to predict the velocity and pressure fields inside the channel by satisfying the governing incompressible flow equations and the imposed boundary conditions. The PINN is trained using interior collocation points and boundary points to approximate the flow solution in the channel.
+
+## Results
+The predicted flow field and related results are shown below:
+
+![PINN Results](Figure_!.png)
